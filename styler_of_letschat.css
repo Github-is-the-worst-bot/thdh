@@ -1,0 +1,64 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+ .th {
+height: 90px;
+width: 131px;
+border-radius: 33px;
+}
+.class {
+  height: 90px;
+  width: 131px;
+  border-radius: 33px;
+  }
+body#intabia{
+background-image: linear-gradient(to right top, #81f4fc, #9e94fa, #f086fa);}
+body{
+  background-image: linear-gradient(to right top, #bcfbff, #a19adf, #f165fd);}
+.logo
+{
+	width: 139px;margin-top: 80px;border-radius: 20px;
+}
+.login_div
+{
+  background-image: linear-gradient( pink, lavender);
+  float: none;
+  border-radius: 10px;
+}
+#login_button
+{
+ background-color: rgb(255, 0, 136);
+}
+#logout
+{
+margin-top: 12px;
+height: 40px;
+width: 100px;
+font-size: 19px;
+font-family: 'glyphicon';
+background-color: rgb(192, 253, 70);
+color: rgb(141, 0, 0);
+font: 'bold';
+
+}
+#BUTTON {
+  background-image: linear-gradient( pink, rgb(187, 187, 250));
+
+}
+.color_white
+{
+  color: palegreen;
+  font-family: arial black;
+}
+#output
+{
+  padding: 20px; width:50%;
+  background: lavenderblush;
+  border-radius: 9px;
+}
+#BUTTON{
+  margin-top: 19px;
+  font-family: cursive;
+}
